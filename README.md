@@ -8,3 +8,4 @@ To run project in dev mode run:
 pnpm install
 pnpm dev
 ```
+And open http://localhost:5173/ in your browser of choice
